@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">كتابات موريتانية</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_login">Log in</string>
+    <string name="menu_logout">Log out</string>
+    <string name="login_label">Log In</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Password</string>
+    <string name="send_text">Send</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec condimentum ante, quis mattis mi. Proin ut rhoncus libero, ac euismod neque. Ut suscipit, enim a facilisis consequat, orci lacus venenatis orci, at ultricies orci nulla sed ex. In condimentum viverra velit, eget feugiat libero imperdiet vel. Aenean pretium, lectus vitae bibendum bibendum, diam turpis convallis eros, quis tristique leo sapien at ipsum. Praesent eu odio id nulla lobortis auctor. Donec eget dolor eget nisl euismod commodo vel a lacus. Quisque ut justo vitae urna pharetra accumsan. Etiam dignissim neque iaculis mauris viverra, blandit rhoncus odio porttitor. Phasellus nibh arcu.</string>
+    <string name="title_sign_in">Welcome</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Email</string>
+    <string name="sign_in">Sign In</string>
+    <string name="recent">Recent</string>
+    <string name="my_post">my stories</string>
+    <string name="my_top_post">My top stories</string>
+    <string name="user_error_fetch">Error: could not fetch user.</string>
+    <string name="load_post_failed">Failed to load story.</string>
+    <string name="required">Required</string>
+    <string name="loading">Loading...</string>
+    <string name="write_post_here">Write your story...</string>
+    <string name="write_post_title_here">Title</string>
+    <string name="write_comment_here">Write a comment...</string>
+    <string name="post_button">Post</string>
+
+    <string name="slide_1_title">Read</string>
+    <string name="slide_1_desc"> Read the writings that others have shared</string>
+
+    <string name="slide_2_title">put comment</string>
+    <string name="slide_2_desc">Comment on the writings that you like</string>
+
+    <string name="slide_3_title">Admire</string>
+    <string name="slide_3_desc">Put admire on publications which Like</string>
+
+    <string name="slide_4_title">Write</string>
+    <string name="slide_4_desc">share your writings with others</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="next">next</string>
+    <string name="skip">skip</string>
+    <string name="start">start</string>
+    <string name="yes">yes</string>
+    <string name="non">non</string>
+    <string name="delete_warnning">are you sure you want to delete ?</string>
+    <string name="warnning">Warning</string>
+    <string name="delete">delete</string>
+    <string name="edit">edit</string>
+    <string name="contact">rrr</string>
+    <string name="app_help">long press on the publication to delete</string>
+    <string name="sign_up_error">Sign Up Failed</string>
+</resources>

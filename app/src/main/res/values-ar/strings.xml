@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">كتابات موريتانية</string>
+    <string name="action_settings">إعدادات</string>
+    <string name="menu_login">تسجيل الدخول</string>
+    <string name="menu_logout">خروج</string>
+    <string name="login_label">تسجيل الدخول</string>
+    <string name="email_label">البريد الإلكتروني</string>
+    <string name="password_label">كلمه السر</string>
+    <string name="send_text">إرسال</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec condimentum ante, quis mattis mi. Proin ut rhoncus libero, ac euismod neque. Ut suscipit, enim a facilisis consequat, orci lacus venenatis orci, at ultricies orci nulla sed ex. In condimentum viverra velit, eget feugiat libero imperdiet vel. Aenean pretium, lectus vitae bibendum bibendum, diam turpis convallis eros, quis tristique leo sapien at ipsum. Praesent eu odio id nulla lobortis auctor. Donec eget dolor eget nisl euismod commodo vel a lacus. Quisque ut justo vitae urna pharetra accumsan. Etiam dignissim neque iaculis mauris viverra, blandit rhoncus odio porttitor. Phasellus nibh arcu.</string>
+    <string name="title_sign_in">أهلا بك</string>
+    <string name="sign_up">إنشاء حساب</string>
+    <string name="hint_password">كلمه السر</string>
+    <string name="hint_email">البريد الإلكتروني</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="recent">الأخيرة</string>
+    <string name="my_post">كتاباتي</string>
+    <string name="my_top_post">أفضل كتاباتي</string>
+    <string name="user_error_fetch">خطأ: لا يمكن جلب المستخدم.</string>
+    <string name="load_post_failed">فشل تحميل القصة.</string>
+    <string name="required">مطلوب</string>
+    <string name="loading">جار التحميل...</string>
+    <string name="write_post_here">أكتب قصتك ...</string>
+    <string name="write_post_title_here">عنوان</string>
+    <string name="write_comment_here">أكتب تعليقا...</string>
+    <string name="post_button">أرسل</string>
+
+
+
+    <string name="slide_1_title">اقرأ</string>
+    <string name="slide_1_desc">اقرأ كتابات شاركها أخرون </string>
+
+    <string name="slide_2_title">ضع تعليق</string>
+    <string name="slide_2_desc">علق على الكتابات التي تعجبك</string>
+
+    <string name="slide_3_title">سجل إعجابك</string>
+    <string name="slide_3_desc">ضع إعجابك على الكتابات التي أعجبتك </string>
+
+    <string name="slide_4_title">ضع بصمتك</string>
+    <string name="slide_4_desc">شارك كتاباتك مع الآخرين</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">إعادة</string>
+    <string name="next">التالي</string>
+    <string name="skip">تخطي</string>
+    <string name="start">ابدء</string>
+    <string name="yes">نعم</string>
+    <string name="non">لا</string>
+    <string name="delete_warnning">هل أنت متأكد أنك تريد حذف المنشور ؟</string>
+    <string name="warnning">تحذير</string>
+    <string name="delete">حذف</string>
+    <string name="edit">تعديل</string>
+    <string name="contact">rrr</string>
+    <string name="app_help">اضغط لفترة طويلة على منشور لحذفه</string>
+    <string name="sign_up_error">فشل انشاء الحساب</string>
+
+</resources>
