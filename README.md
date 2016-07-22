@@ -10,5 +10,8 @@ NewPostActivity.class
  SingInActivity.class  
  mDatabase = FirebaseDatabase.getInstance().getReferenceFromUrl("your link here");
  
+ 
+ enable auth by email and password 
+ 
  and you're ok to go 
  thanks
